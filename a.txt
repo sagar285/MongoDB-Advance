@@ -1,0 +1,59 @@
+Top 10 Non-Coding Habit For Backend Developer 
+
+
+- *Document your code and processes*.
+ This will make it easier for you and others to understand, maintain, and debug your code.
+  It will also save you time and frustration in the future¹².
+
+
+- *Use version control and collaboration tools*.
+ Tools like Git, GitHub, and Slack can help you manage your code, track changes, 
+ communicate with your team, and resolve conflicts³⁴.
+
+
+- *Test and debug your code regularly*.
+ Testing and debugging are essential parts of backend development.
+  They can help you catch errors, improve performance, and ensure quality¹².
+
+
+- *Learn new skills and technologies*.
+ Backend development is a dynamic and evolving field. You should keep yourself updated with the latest trends,
+  tools, and best practices. You can also learn from other developers by reading blogs, 
+  watching videos, or joining online communities¹².
+
+
+
+- *Optimize your code and database*.
+
+ Backend developers are responsible for the speed, scalability, and security of the applications.
+  You should optimize your code and database by using efficient algorithms,
+   data structures, and queries. You should also avoid unnecessary or redundant code and data¹².
+
+
+- *Follow coding standards and conventions*.
+ Coding standards and conventions are a set of rules and guidelines that help you write consistent, readable,
+  and maintainable code.  They can also prevent errors and bugs. 
+ You should follow the coding standards and conventions of your language, framework, and organization¹².
+
+
+- *Seek and give feedback*. 
+Feedback is a valuable source of learning and improvement. 
+You should seek feedback from your peers, mentors, and 
+users on your code, design, and functionality. 
+You should also give feedback to others in a constructive and respectful way¹².
+
+
+- *Take breaks and rest*. 
+Coding can be mentally and physically demanding. 
+You should take regular breaks and rest to avoid burnout, 
+stress, and fatigue. You can also use breaks to refresh your mind, relax your body, and have some fun¹².
+
+- *Exercise and eat well*. 
+Your physical health can affect your mental health and performance. 
+You should exercise regularly and eat well to stay fit, energetic, and healthy.
+ You can also use exercise and nutrition to boost your mood, creativity, and focus¹².
+
+- *Celebrate your achievements and learn from your failures*. 
+Backend development can be challenging and rewarding. You should celebrate your achievements and appreciate your efforts.
+ You should also learn from your failures and mistakes. 
+ You can use them as opportunities to grow, improve, and innovate¹².
